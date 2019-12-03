@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P_CustomToast__JVm</string>
+    <string name="B_CustomToast_IDXML">Klik Disini</string>
+    <string name="TV_ToastCustom_IDXML">Ini Adalah Pesan Toast Dengan Gambar</string>
+</resources>
